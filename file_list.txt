@@ -1,0 +1,4 @@
+total 0
+-rw-r--r-- 1 USER 197121 0 10월 18 16:28 file_list.txt
+total 1.0K
+-rw-r--r-- 1 USER 197121 64 10월 18 16:28 file_list.txt
